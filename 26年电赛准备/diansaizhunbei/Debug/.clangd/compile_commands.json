@@ -1,0 +1,77 @@
+[
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/empty.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/A4950.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/oled.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/board.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/ICM45686/inv_imu_driver.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/ICM45686/inv_imu_transport.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/IMU/IMU.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/basic_read_reg.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/bsp_spi.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/Encoder.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/Timer.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/xunji.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/PID.c"
+   },
+   {
+      "directory" : "D:/CSS_Files/diansaizhunbei/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"D:/CSS_Files/diansaizhunbei\" -I\"D:/CSS_Files/diansaizhunbei/Debug\" -I\"D:/CSS_Files/diansaizhunbei/ICM45686\" -I\"D:/CSS_Files/diansaizhunbei/IMU\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"C:/TI/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/CCS/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "D:/CSS_Files/diansaizhunbei/task.c"
+   }
+]

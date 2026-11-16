@@ -1,6 +1,6 @@
 Dependencies for Project 'phc', Target 'phc': (DO NOT MODIFY !)
 F (startup_stm32f103xb.s)(0x6AF334D0)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list startup_stm32f103xb.lst --xref -o phc\startup_stm32f103xb.o --depend phc\startup_stm32f103xb.d)
-F (..\Core\Src\lanya.c)(0x6AFADFF2)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\lanya.o --omf_browse phc\lanya.crf --depend phc\lanya.d)
+F (..\Core\Src\lanya.c)(0x6AFB07D4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\lanya.o --omf_browse phc\lanya.crf --depend phc\lanya.d)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
 I (../Core/Inc/main.h)(0x6AFACB7E)
 I (../Core/Inc/PID.h)(0x6AFAD89B)
@@ -41,9 +41,9 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h)(0x69BE769A)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h)(0x69BE7699)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h)(0x69BE769A)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h)(0x69BE769A)
-I (../Core/Inc/lanya.h)(0x6AFADF98)
+I (../Core/Inc/lanya.h)(0x6AFB0649)
 I (../Core/Inc/JY61P.h)(0x6AFAD933)
-F (..\Core\Inc\lanya.h)(0x6AFADF98)()
+F (..\Core\Inc\lanya.h)(0x6AFB0649)()
 F (..\Core\Src\OLED.c)(0x6AEC4649)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\oled.o --omf_browse phc\oled.crf --depend phc\oled.d)
 I (../Core/Inc/OLED.h)(0x6AEC4650)
 I (../Core/Inc/main.h)(0x6AFACB7E)
@@ -139,8 +139,8 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h)(0x69BE769A)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h)(0x69BE769A)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
 F (..\Core\Inc\JY61P.h)(0x6AFAD933)()
-F (..\Core\Src\Timer.c)(0x6AFADFC9)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\timer.o --omf_browse phc\timer.crf --depend phc\timer.d)
-I (../Core/Inc/Timer.h)(0x6AF7D967)
+F (..\Core\Src\Timer.c)(0x6AFB0637)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\timer.o --omf_browse phc\timer.crf --depend phc\timer.d)
+I (../Core/Inc/Timer.h)(0x6AFB062D)
 I (../Core/Inc/main.h)(0x6AFACB7E)
 I (../Core/Inc/PID.h)(0x6AFAD89B)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x69BE769A)
@@ -183,8 +183,8 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h)(0x69BE769A)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
 I (../Core/Inc/PWM.h)(0x6AF55264)
 I (../Core/Inc/JY61P.h)(0x6AFAD933)
-I (../Core/Inc/lanya.h)(0x6AFADF98)
-F (..\Core\Inc\Timer.h)(0x6AF7D967)()
+I (../Core/Inc/lanya.h)(0x6AFB0649)
+F (..\Core\Inc\Timer.h)(0x6AFB062D)()
 F (..\Core\Src\PID.c)(0x6AFAD8A6)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\pid.o --omf_browse phc\pid.crf --depend phc\pid.d)
 I (../Core/Inc/PID.h)(0x6AFAD89B)
 F (..\Core\Src\PWM.c)(0x6AF55252)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\pwm.o --omf_browse phc\pwm.crf --depend phc\pwm.d)
@@ -231,7 +231,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h)(0x69BE769A)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
 F (..\Core\Inc\PWM.h)(0x6AF55264)()
 F (..\Core\Inc\PID.h)(0x6AFAD89B)()
-F (../Core/Src/main.c)(0x6AFAD995)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\main.o --omf_browse phc\main.crf --depend phc\main.d)
+F (../Core/Src/main.c)(0x6AFB080A)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\main.o --omf_browse phc\main.crf --depend phc\main.d)
 I (../Core/Inc/main.h)(0x6AFACB7E)
 I (../Core/Inc/PID.h)(0x6AFAD89B)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x69BE769A)
@@ -272,13 +272,13 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h)(0x69BE7699)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h)(0x69BE769A)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h)(0x69BE769A)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
-I (../Core/Inc/lanya.h)(0x6AFADF98)
+I (../Core/Inc/lanya.h)(0x6AFB0649)
 I (../Core/Inc/OLED.h)(0x6AEC4650)
 I (../Core/Inc/OLEDFont.h)(0x6AEC412B)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 I (../Core/Inc/JY61P.h)(0x6AFAD933)
 I (../Core/Inc/PWM.h)(0x6AF55264)
-I (../Core/Inc/Timer.h)(0x6AF7D967)
+I (../Core/Inc/Timer.h)(0x6AFB062D)
 F (../Core/Src/stm32f1xx_it.c)(0x6AF00C6F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --no_multibyte_chars-I.\RTE\_phc-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_MD -DUSE_FULL_LL_DRIVER -DUSE_HAL_DRIVER -DSTM32F103xB-o phc\stm32f1xx_it.o --omf_browse phc\stm32f1xx_it.crf --depend phc\stm32f1xx_it.d)
 I (../Core/Inc/main.h)(0x6AFACB7E)
 I (../Core/Inc/PID.h)(0x6AFAD89B)

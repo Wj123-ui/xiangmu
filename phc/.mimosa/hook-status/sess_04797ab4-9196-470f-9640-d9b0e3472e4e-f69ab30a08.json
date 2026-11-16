@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-11-16T13:34:23.568Z",
+  "sessionId": "sess_04797ab4-9196-470f-9640-d9b0e3472e4e",
+  "event": "PostToolUse",
+  "toolName": "Edit",
+  "file": "Core/Src/lanya.c",
+  "outcome": "clear",
+  "coverage": "complete",
+  "findingCount": 0,
+  "durationMs": 12,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}

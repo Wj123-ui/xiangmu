@@ -111,7 +111,7 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 			  imu_lost = 0;
 		  }
 
-		  angle.Actual=Pitch-16.2;
+		  angle.Actual=Pitch-BALANCE_ANGLE;
 
 		  /* 角度环目标 = 速度环输出(度) + 蓝牙遥控倾角(度),
 		   * 两者叠加后限幅, 防止 $f 和大速度目标同时给导致目标倾角过大 */

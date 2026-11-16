@@ -143,9 +143,9 @@ int main(void)
    *   车应当朝"能抵消该转速"的方向倾斜; 如果反而加速跑开, 说明符号反了,
    *   把 Kp 改成负值(或给遥控速度取负)。
    * 确认方向正确后再逐步加大到 0.05 左右, 最后加积分 Ki ≈ Kp/80。 */
-  speed.Kp=0.0;
-  speed.Ki=0.0;
-  speed.Kd=0.0;			/* 编码器差分量化噪声大, 不加微分 */
+  speed.Kp=0.001;
+  speed.Ki=0.001;
+  speed.Kd=0.001;			/* 编码器差分量化噪声大, 不加微分 */
   speed.OutMax=8;		/* 输出是目标倾角(度), 不是 PWM: 8 度已经是很猛的加速 */
   speed.OutMin=-8;
   speed.IntMax=0;		/* Ki=0 时不积分; 发 $v,kp,ki,kd 会自动重算 */
@@ -168,7 +168,7 @@ int main(void)
 	  OLED_PrintASCIIString(0, 32,"Ki:",&afont16x8, OLED_COLOR_NORMAL);
 	  OLED_PrintASCIIString(0, 48,"Kd:",&afont16x8, OLED_COLOR_NORMAL);
 	  /* 小数: 第二个数字参数是小数位数(0~6) */
-	  OLED_PrintFloat(48, 0,Pitch-16.2,2, &afont16x8, OLED_COLOR_NORMAL);
+	  OLED_PrintFloat(48, 0,Pitch-BALANCE_ANGLE,2, &afont16x8, OLED_COLOR_NORMAL);
 	  OLED_PrintFloat(48, 16,speed.Kp,2, &afont16x8, OLED_COLOR_NORMAL);
 	  OLED_PrintFloat(48, 32,speed.Ki,2, &afont16x8, OLED_COLOR_NORMAL);
 	  OLED_PrintFloat(48, 48,speed.Kd,2, &afont16x8, OLED_COLOR_NORMAL);
